@@ -1,0 +1,14 @@
+
+
+Version:	3.9
+CmdLine:	C:\Users\ph30010886\Documents\NetBeansProjects\ExcelCRUDApp\StockSurveyReport.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\ph30010886\Documents\NetBeansProjects\ExcelCRUDApp\.
+Bundled JRE:	jdk
+Check launcher:	C:\Users\ph30010886\Documents\NetBeansProjects\ExcelCRUDApp\jdk\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.4.0
+Open URL:	http://java.com/download
